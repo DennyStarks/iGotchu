@@ -658,7 +658,7 @@ transform: rotateY(180deg);
 
   .cl-effect-18 a {
     /* padding: 10px 5px; */
-    color: #b4770d;
+    color: #5A440D;
     font-weight: 700;
     -webkit-transition: color 0.3s;
     -moz-transition: color 0.3s;
@@ -673,7 +673,7 @@ transform: rotateY(180deg);
     top: 50%;
     height: 2px;
     margin-top: -1px;
-    background: #b4770d;
+    background: #5A440D;
     content: '';
     z-index: -1;
     -webkit-transition: -webkit-transform 0.3s, opacity 0.3s;
@@ -696,7 +696,7 @@ transform: rotateY(180deg);
 
   .cl-effect-18 a:hover,
   .cl-effect-18 a:focus {
-    color: #fff;
+    color: #005051;
   }
 
   .cl-effect-18 a:hover::before,
@@ -792,7 +792,7 @@ transform: rotateY(180deg);
 
     .cl-effect-18 a {
       padding: 10px 5px;
-      color: #b4770d;
+      color: #5A440D;
       font-weight: 700;
       -webkit-transition: color 0.3s;
       -moz-transition: color 0.3s;
@@ -807,7 +807,7 @@ transform: rotateY(180deg);
       top: 50%;
       height: 2px;
       margin-top: -1px;
-      background: #b4770d;
+      background: #5A440D;
       content: '';
       z-index: -1;
       -webkit-transition: -webkit-transform 0.3s, opacity 0.3s;
@@ -830,7 +830,7 @@ transform: rotateY(180deg);
 
     .cl-effect-18 a:hover,
     .cl-effect-18 a:focus {
-      color: #fff;
+      color: #005051;
     }
 
     .cl-effect-18 a:hover::before,
