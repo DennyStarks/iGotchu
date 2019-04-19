@@ -236,7 +236,7 @@ transform: rotateY(180deg);
 
 .accordion {
   background-color: #3F7FF3;
-  color: white;
+  color: black;
   cursor: pointer;
   padding: 18px;
   width: 100%;
@@ -249,7 +249,7 @@ transform: rotateY(180deg);
 
 .active, .accordion:hover, .accordion:focus  {
   background-color: #F2A827;
-  color: #b4770d;
+  color: black;
 }
 
 .panel {
@@ -288,7 +288,7 @@ transform: rotateY(180deg);
     display: inline-block;
     /* width: 2.7rem; */
     height: 2.7rem;
-    background: #3F7FF3;
+    background: #f19f0f;
     cursor: pointer;
     font-size: 14px;
     color: white;
@@ -297,7 +297,7 @@ transform: rotateY(180deg);
 }
 
 .control:hover {
-    background: #3f3f3f;
+    background: white;
 }
 
 .control[data-filter]:after {
@@ -330,7 +330,8 @@ transform: rotateY(180deg);
 }
 
 .mixitup-control-active {
-    background: black;
+    background: white;
+    color: black;
 }
 
 .mixitup-control-active[data-filter]:after {
@@ -350,23 +351,23 @@ transform: rotateY(180deg);
 }
 
 .control[data-filter=".green"] {
-    color: #E4F1FE;
+    color: black;
 }
 
 .control[data-filter=".blue"] {
-    color: #E4F1FE;
+    color: black;
 }
 
 .control[data-filter=".pink"] {
-    color: #E4F1FE;
+    color: black;
 }
 
 .control[data-filter=".purple"] {
-    color: #E4F1FE;
+    color: black;
 }
 
 .control[data-filter="none"] {
-    color: #E4F1FE;
+    color: black;
 }
 
 
@@ -482,16 +483,16 @@ transform: rotateY(180deg);
       display: inline-block;
       /* width: 2.7rem; */
       height: 2.0rem;
-      background: #3F7FF3;
+      background: #f19f0f;
       cursor: pointer;
       font-size: 14px;
-      color: #E4F1FE;
+      color: black;
       font-weight: bold;
       transition: background 150ms;
   }
 
   .control:hover {
-      background: #3f3f3f;
+      background: white;
   }
 
   .control[data-filter]:after {
@@ -524,7 +525,8 @@ transform: rotateY(180deg);
   }
 
   .mixitup-control-active {
-      background: black;
+      background: white;
+      color: black;
   }
 
   .mixitup-control-active[data-filter]:after {
@@ -658,7 +660,7 @@ transform: rotateY(180deg);
 
   .cl-effect-18 a {
     /* padding: 10px 5px; */
-    color: #5A440D;
+    color: black;
     font-weight: 700;
     -webkit-transition: color 0.3s;
     -moz-transition: color 0.3s;
@@ -696,7 +698,7 @@ transform: rotateY(180deg);
 
   .cl-effect-18 a:hover,
   .cl-effect-18 a:focus {
-    color: #005051;
+    color: #13036d;
   }
 
   .cl-effect-18 a:hover::before,
@@ -792,7 +794,7 @@ transform: rotateY(180deg);
 
     .cl-effect-18 a {
       padding: 10px 5px;
-      color: #5A440D;
+      color: black;
       font-weight: 700;
       -webkit-transition: color 0.3s;
       -moz-transition: color 0.3s;
@@ -807,7 +809,7 @@ transform: rotateY(180deg);
       top: 50%;
       height: 2px;
       margin-top: -1px;
-      background: #5A440D;
+      background: black;
       content: '';
       z-index: -1;
       -webkit-transition: -webkit-transform 0.3s, opacity 0.3s;
@@ -830,7 +832,7 @@ transform: rotateY(180deg);
 
     .cl-effect-18 a:hover,
     .cl-effect-18 a:focus {
-      color: #005051;
+      color: #13036d;
     }
 
     .cl-effect-18 a:hover::before,
